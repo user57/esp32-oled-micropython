@@ -13,8 +13,8 @@ p25 = Pin(25, Pin.OUT)
 p25.on()
 
 # Text for display
-line1: "Line1"
-line2: "Line2"
+line1 = "Line1"
+line2 = "Line2"
 
 # setup display
 
